@@ -16,15 +16,15 @@
 
 * [1.1 操作系统的历程与开源往事](di-1-zhang-zou-jin-freebsd/di-1.1-unix.md)
 * [1.2 FreeBSD 导论](di-1-zhang-zou-jin-freebsd/di-1.2-dao-lun.md)
-* [1.3 George Berkeley（乔治·贝克莱）与 BSD 命名的文化渊源](di-1-zhang-zou-jin-freebsd/di-1.3-jie-freebsd-jian-shi.md)
-* [1.4 加州大学伯克利分校和“Fiat Lux”（要有光）](di-1-zhang-zou-jin-freebsd/di-1.4-Fiat-Lux.md)
+* [1.3 乔治·贝克莱（George Berkeley）与 BSD 命名的文化渊源](di-1-zhang-zou-jin-freebsd/di-1.3-jie-freebsd-jian-shi.md)
+* [1.4 加州大学伯克利分校和“要有光”（Fiat Lux）](di-1-zhang-zou-jin-freebsd/di-1.4-Fiat-Lux.md)
 
 ## 第 2 章 安装 FreeBSD
 
 * [2.1 安装前的准备工作](di-2-zhang-an-zhuang-freebsd/di-2.1-install-pre.md)
 * [2.2 FreeBSD 15 安装指南（基于 amd64 架构）](di-2-zhang-an-zhuang-freebsd/di-2.2-15ins.md)
 * [2.3 故障排除](di-2-zhang-an-zhuang-freebsd/di-2.3-jie-eol.md)
-* [2.4 将 U 盘启动盘恢复为普通 U 盘（基于 Windows 系统）](di-2-zhang-an-zhuang-freebsd/di-2.4-jie-usb.md)
+* [2.4 将 USB 启动盘恢复为普通 U 盘（基于 Windows 系统）](di-2-zhang-an-zhuang-freebsd/di-2.4-jie-usb.md)
 
 ## 第 3 章 FreeBSD 高级安装
 
@@ -70,7 +70,7 @@
 
 * [6.1 Intel 和 AMD 显卡驱动](di-6-zhang-zhuo-mian-an-zhuang/di-6.1-jie-an-zhuang-xian-ka-qu-dong-ji-xorg-bi-kan.md)
 * [6.2 NVIDIA 显卡驱动](di-6-zhang-zhuo-mian-an-zhuang/di-6.2-NVIDIA.md)
-* [6.3 KDE6（X11）](di-6-zhang-zhuo-mian-an-zhuang/di-6.3-jie-an-zhuang-kde.md)
+* [6.3 KDE 6（X11）](di-6-zhang-zhuo-mian-an-zhuang/di-6.3-jie-an-zhuang-kde.md)
 * [6.4 GNOME](di-6-zhang-zhuo-mian-an-zhuang/di-6.4-jie-an-zhuang-gnome.md)
 * [6.5 Mate](di-6-zhang-zhuo-mian-an-zhuang/di-6.5-jie-an-zhuang-mate.md)
 * [6.6 Xfce](di-6-zhang-zhuo-mian-an-zhuang/di-6.6-jie-an-zhuang-xfce.md)
@@ -113,7 +113,7 @@
 * [9.1 音频设备配置](di-9-duo-mei-ti/di-9.1-jie-sheng-ka-yu-wang-ka-she-zhi.md)
 * [9.2 蓝牙](di-9-duo-mei-ti/di-9.2-jie-lan-ya.md)
 * [9.3 打印机](di-9-duo-mei-ti/di-9.3-jie-da-yin-ji-de-an-zhuang.md)
-* [9.4 触摸板与键鼠](di-9-duo-mei-ti/di-9.4-jie-chu-mo-ban-de-she-zhi.md)
+* [9.4 触摸板与键盘鼠标](di-9-duo-mei-ti/di-9.4-jie-chu-mo-ban-de-she-zhi.md)
 * [9.5 音频播放器](di-9-duo-mei-ti/di-9.5-jie-yin-pin-bo-fang-qi.md)
 * [9.6 视频播放器](di-9-duo-mei-ti/di-9.6-shi-pin-bo-fang.md)
 * [9.7 多媒体处理工具](di-9-duo-mei-ti/di-9.7-tu-xing-tu-xiang.md)
@@ -179,7 +179,7 @@
 
 * [17.1 Apache](di-17-zhang-wang-luo-fu-wu-qi/di-17.1-jie-apache.md)
 * [17.2 Nginx](di-17-zhang-wang-luo-fu-wu-qi/di-17.2-jie-nginx.md)
-* [17.3 PHP 8.X](di-17-zhang-wang-luo-fu-wu-qi/di-17.3-jie-php-8.x.md)
+* [17.3 PHP 8.x](di-17-zhang-wang-luo-fu-wu-qi/di-17.3-jie-php-8.x.md)
 * [17.4 Zabbix 监控（基于 PostgreSQL）](di-17-zhang-wang-luo-fu-wu-qi/17.4-Zabbix.md)
 * [17.5 Nextcloud（基于 PostgreSQL）](di-17-zhang-wang-luo-fu-wu-qi/di-17.5-jie-NextCloud.md)
 * [17.6 Telegraf、InfluxDB 与 Grafana 监控平台](di-17-zhang-wang-luo-fu-wu-qi/di-17.6-jie-telegraf+influxdb+grafana-jian-kong-ping-tai.md)
@@ -228,7 +228,7 @@
 
 ## 第 22 章 开发生态与贡献社区
 
-* [22.1 如何报告 Bug](di-22-zhang-bian-cheng-yu-kai-fa/di-22.1-jie-ru-he-bao-gao-bug.md)
+* [22.1 如何报告缺陷（Bug）](di-22-zhang-bian-cheng-yu-kai-fa/di-22.1-jie-ru-he-bao-gao-bug.md)
 * [22.2 如何开发一个 Port](di-22-zhang-bian-cheng-yu-kai-fa/di-22.2-jie-ru-he-ti-jiao-yi-ge-ruan-jian-bao.md)
 * [22.3 如何参与 FreeBSD 开发](di-22-zhang-bian-cheng-yu-kai-fa/di-22.3-jie-ru-he-can-yu-freebsd-xie-zuo.md)
 * [22.4 C/C++ 环境的配置](di-22-zhang-bian-cheng-yu-kai-fa/di-22.4-jie-cc++-huan-jing-de-pei-zhi.md)
@@ -241,7 +241,7 @@
 * [22.11 如何订阅 FreeBSD 的邮件列表](di-22-zhang-bian-cheng-yu-kai-fa/di-22.11-jie-ru-he-ding-yue-freebsd-de-you-jian-lie-biao.md)
 * [22.12 code-server 和 clangd](di-22-zhang-bian-cheng-yu-kai-fa/di-22.12-jie-an-zhuang-code-server-he-clangd.md)
 * [22.13 Node.js](di-22-zhang-bian-cheng-yu-kai-fa/di-22.13-jie-nodejs-xiang-guan.md)
-* [22.14 利用脚本自动生成 BSDlibc 库文本](di-22-zhang-bian-cheng-yu-kai-fa/di-22.14-jie-li-yong-jiao-ben-zi-dong-sheng-cheng-bsdlibc-ku-wen-ben.md)
+* [22.14 利用脚本自动生成 BSD libc 库文本](di-22-zhang-bian-cheng-yu-kai-fa/di-22.14-jie-li-yong-jiao-ben-zi-dong-sheng-cheng-bsdlibc-ku-wen-ben.md)
 
 ## 第 23 章 存储管理
 
